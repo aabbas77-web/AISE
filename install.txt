@@ -1,0 +1,4 @@
+pip install pyjwt
+pip install 'passlib[bcrypt]'
+
+pip freeze > requirements.txt
