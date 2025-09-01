@@ -25,7 +25,7 @@ token_auth_scheme = HTTPBearer()
 app_desc = """<h2>Try this app by uploading any image with `/similarity/search`</h2>"""
 
 # Creates app instance
-app = FastAPI(title='AliSoft Image Search Engine V1.0', description=app_desc)
+app = FastAPI(title='Jiko Image Search Engine V1.0', description=app_desc)
 app.mount("/static", StaticFiles(directory="./static"), name="static")
 
 fe = FeatureExtractor()
