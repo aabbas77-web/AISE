@@ -9,6 +9,6 @@
 
 Plant Diseases Estimator
 
-[![v](https://github.com/aabbas77-web/CNC6/releases/download/FirstRelease/CNC6Video.png)](https://www.youtube.com/watch?v=69bZtoHsPco)
+[![v](https://github.com/aabbas77-web/CNC6/releases/download/FirstRelease/CNC6Video.png)](https://www.youtube.com/watch?v=YwnC9KGAZFI)
 
 
